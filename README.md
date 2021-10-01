@@ -13,8 +13,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Front-end mentor solution](https://github.com/IgMominKhan/order-summary)
+- Live Site URL: [article preview card Component](https://igmominkhan.github.io/article-preview-component/
 
 ## My process
 
@@ -48,6 +46,7 @@ This project doesn't support Cross-browse support. I will try to add this featur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Github - [@Ig Momin Khan](https://github.com/IgMominKhan)
+- Frontend Mentor - [@Ig Momin Khan](https://www.frontendmentor.io/profile/IgMominKhan)
+- Twitter - [@Ig Momin Khan](https://twitter.com/Ig_Momin_Khan)
+- Facebook - [@Ig Momin Khan](https://www.facebook.com/profile.php?id=100028163183392)
